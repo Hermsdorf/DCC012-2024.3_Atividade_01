@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/abner/Documents/UFJF/EDII/DCC012-2024.3_Atividade_01/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\hello.cpp.obj -c C:\\Users\\abner\\Documents\\UFJF\\EDII\\DCC012-2024.3_Atividade_01\\hello.cpp",
+  "file": "C:/Users/abner/Documents/UFJF/EDII/DCC012-2024.3_Atividade_01/hello.cpp",
+  "output": "CMakeFiles/hello.dir/hello.cpp.obj"
+}
+]

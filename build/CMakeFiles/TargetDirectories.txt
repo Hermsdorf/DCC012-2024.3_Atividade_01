@@ -1,0 +1,3 @@
+C:/Users/abner/Documents/UFJF/EDII/DCC012-2024.3_Atividade_01/build/CMakeFiles/hello.dir
+C:/Users/abner/Documents/UFJF/EDII/DCC012-2024.3_Atividade_01/build/CMakeFiles/edit_cache.dir
+C:/Users/abner/Documents/UFJF/EDII/DCC012-2024.3_Atividade_01/build/CMakeFiles/rebuild_cache.dir
